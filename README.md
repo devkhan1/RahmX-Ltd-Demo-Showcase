@@ -45,6 +45,8 @@ Now available as a **customizable template** for clients, founders, and agencies
 
 ![Homepage Preview](./demo-assets/homepage-preview.png)  
 ![Portfolio Preview](./demo-assets/portfolio-preview.png) 
+![Services Preview](./demo-assets/services-preview.png) 
+![Solutions Preview](./demo-assets/solutions-preview.png) 
 ![Contact Form](./demo-assets/contact-us.png)
 
 ---
