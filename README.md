@@ -44,6 +44,7 @@ Now available as a **customizable template** for clients, founders, and agencies
 > *(You can add real screenshots here after uploading them to `/demo-assets/` folder)*
 
 ![Homepage Preview](./demo-assets/homepage-preview.png)  
+![Portfolio Preview](./demo-assets/portfolio-preview.png) 
 ![Contact Form](./demo-assets/contact-us.png)
 
 ---
