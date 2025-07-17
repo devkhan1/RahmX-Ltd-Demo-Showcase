@@ -71,6 +71,17 @@ Our official PDF includes:
 - Designed for ethical extensions like ZamaGPT & VaultDNA
 
 ---
+## 🛠 Related Demo Projects
+
+Explore other AI-powered demo templates:
+
+### 🍽 Spice Hub – Restaurant Demo
+- 🔗 [menuverse-919eu.web.app](https://menuverse-919eu.web.app)  
+- 🧾 [Demo-Spice-Hub GitHub Repo](https://github.com/devkhan1/Demo-Spice-Hub)
+  
+### 🍽 DemoX Re-Imagined – Ai Tech
+- 🔗 [menuverse-919eu.web.app](https://rahmx-reimagined.web.app/)   
+- 🧾 [DemoX-Rimagined GitHub Repo](https://github.com/devkhan1/DemoX-Reimagined)
 
 ## 🚀 How to Get This Site for Your Brand
 
