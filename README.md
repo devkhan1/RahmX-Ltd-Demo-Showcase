@@ -4,7 +4,7 @@
 - 🌐 **Live Portfolio**: [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
 - 📧 **Contact**: [info@rahmx.co.uk](mailto:info@rahmx.co.uk)  
 - 📄 **Pitch Pack PDF**: [Download PDF](./Rahmx_Pitch_Pack.pdf)
-
+  
 ---
 
 ## 🧠 What Is This?
@@ -107,7 +107,7 @@ I’m always looking for passionate collaborators and fresh ideas. Whether you�
 - **Share Your Ideas:** Have a concept or challenge you want to solve? I love brainstorming new solutions—reach out anytime!  
 - **Courses Coming Soon:** Stay tuned for online courses on Next.js, Tailwind CSS, AI prompt engineering, and ethical memory‑powered systems.  
 - **Learn Alongside Me:** Want to pick up these skills yourself? Subscribe to my YouTube channel for tutorials, walkthroughs, and live coding sessions:  
-  [YouTube: DevKhan1](https://www.youtube.com/channel/UCYourChannelID)  
+  [YouTube: Khan's Digital Diary](https://www.youtube.com/channel/khansdigitaldiary)    
 - **Join the Community:** Follow me on LinkedIn and Twitter for tips, resources, and updates as each course and project goes live.
 
 Let’s learn, innovate, and shape the future of ethical technology—together!  ```
