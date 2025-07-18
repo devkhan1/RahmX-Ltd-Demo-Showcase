@@ -1,9 +1,9 @@
 # RAHMX Ltd – Business Website Template (Live Demo)
 
-🌐 **Live Website**: [www.rahmx.co.uk](https://www.rahmx.co.uk)
-🌐 **Live Portfolio**: [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
-📧 **Contact**: [info@rahmx.co.uk](mailto:info@rahmx.co.uk)  
-📄 **Pitch Pack PDF**: [Download PDF](./Rahmx_Pitch_Pack.pdf)
+- 🌐 **Live Website**: [www.rahmx.co.uk](https://www.rahmx.co.uk)
+- 🌐 **Live Portfolio**: [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
+- 📧 **Contact**: [info@rahmx.co.uk](mailto:info@rahmx.co.uk)  
+- 📄 **Pitch Pack PDF**: [Download PDF](./Rahmx_Pitch_Pack.pdf)
 
 ---
 
